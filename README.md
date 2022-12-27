@@ -13,7 +13,7 @@
 ```javascript
 const FerrezGerman = {
   pronouns: "He" | "Him",
-  code: [HTML, CSS, JAVASCRIPT, TYPESCRIPT, JAVA],
+  code: [HTML, CSS, JAVASCRIPT, JAVA],
   tools: [React, Boostrap, Node.js],
   
   skill: {
