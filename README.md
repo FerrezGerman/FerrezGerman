@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2> Hi, I'm German Ferrez! <img src="https://media.giphy.com/media/mzzORIXd3Te6CS9Fvk/giphy.gif" width="80"></h2>
+<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
+<p><em>Estudiante de Psicologia <a href=""></a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="30"></br>Estudiante Desarrollo FullStack Developer <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**FerrezGerman/FerrezGerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin: germanferrez](https://img.shields.io/badge/germanferrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/german-ferrez/)](https://www.linkedin.com/in/german-ferrez/)
+[![GitHub FerrezGerman](https://img.shields.io/github/followers/FerrezGerman?label=follow&style=social)](https://github.com/FerrezGerman)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const FerrezGerman = {
+  pronouns: "He" | "Him",
+  code: [HTML, CSS, JAVASCRIPT, TYPESCRIPT, JAVA],
+  tools: [React, Boostrap, Node.js],
+  
+  skill: {
+              learning: "English",   },
+ 
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gusta trabajar en equipo</b> </em>
+
+---
